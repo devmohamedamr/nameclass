@@ -9,7 +9,7 @@
             "email": "devmohamedamr@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"nameclass\\": "src/"}
     },
