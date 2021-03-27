@@ -14,7 +14,7 @@
         "psr-4": {"nameclass\\": "src/"}
     },
     "require": {
-        "php": "^7.2",
+        "php": "^5",
         "another-vendor/package": "1.*"
     }
 }
