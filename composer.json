@@ -13,5 +13,8 @@
     "autoload": {
         "psr-4": {"nameclass\\": "src/"}
     },
-    "require": {}
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
 }
