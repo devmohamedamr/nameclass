@@ -1,0 +1,17 @@
+{
+    "name": "nameclass",
+    "description": "simple name class ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "devmohamedamr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"nameclass\\": "src/"}
+    },
+    "require": {}
+}

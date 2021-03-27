@@ -1,4 +1,5 @@
 <?php
+namespace nameclass;
 
 class nameClass{
     public function name($s){
